@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArchiveTransfer>
+    <ArchiveUnit>
+        <DataObject>
+            <URI>D:\wamp64\www\TestSEDA\Fichierarchive/Alfresco.docx</URI>
+        </DataObject>
+        <DescriptiveMetadata>
+            <Content>
+                <Title>Alfresco</Title>
+                <Description>test</Description>
+                <Coverage>test</Coverage>
+                <Keyword>test</Keyword>
+                <CreatedDate><Date/></CreatedDate>
+                <AuthorizedAgent>
+                    <FullName>Djibril</FullName>
+                </AuthorizedAgent>
+                <DescriptionLevel>Item</DescriptionLevel>
+                <DocumentType>doc</DocumentType>
+                <OriginatingAgency>Originating Agency</OriginatingAgency>
+                <SubmissionAgency>Submission Agency</SubmissionAgency>
+                <RelatedObjectReference><e>e</e></RelatedObjectReference>
+            </Content>
+        </DescriptiveMetadata>
+        <DocumentId>6479f267cd744</DocumentId>
+        <ArchiveUnitProfile>r</ArchiveUnitProfile>
+    </ArchiveUnit>
+</ArchiveTransfer>

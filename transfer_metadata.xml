@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArchiveTransfer>
+    <ArchiveUnit>
+        <TitreTransf></TitreTransf>
+        <AgenceTransfert></AgenceTransfert>
+        <AccordArchivage></AccordArchivage>
+        <CodeListVersions></CodeListVersions>
+        <MotCle></MotCle>
+        <metadataType>transfer</metadataType>
+    </ArchiveUnit>
+</ArchiveTransfer>

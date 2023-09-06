@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArchiveTransfer>
+    <ArchiveUnit>
+        <DataObject>Harry Potter and the Philosopher's Stone</DataObject>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+    </ArchiveUnit>
+    <ArchiveUnit>
+        <DataObject>The Great Gatsby</DataObject>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+    </ArchiveUnit>
+    <ArchiveUnit>
+        <DataObject>To Kill a Mockingbird</DataObject>
+        <author>Harper Lee</author>
+        <year>1960</year>
+    </ArchiveUnit>
+</ArchiveTransfer>
